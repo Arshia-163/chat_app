@@ -55,27 +55,25 @@ Talkie is a real-time chat application designed for instant messaging and group 
 
 ## 🛠 𝐆𝐞𝐭𝐭𝐢𝐧𝐠 𝐒𝐭𝐚𝐫𝐭𝐞𝐝
 =
-1. **🍴 Fork the repository **
-2. ** 💻 Clone your fork **
+1. 🍴 Fork the repository 
+2.  💻 Clone your fork 
     - Clone the repository to your local machine by running the following command in your terminal:
      ```bash
      git clone https://github.com/your-username/CHAT_APP.git
           ```
-   - Replace `your-username` with your GitHub username.
 3. **🌿 Install backend dependencies**
      ```bash
      cd backend
      npm install
      ```
-4. **🛠️ Set environment variables **
+4. 🛠️ Set environment variables 
      PORT=5000
      MONGO_URI=<Your MongoDB URI>
      JWT_SECRET=<Your JWT Secret>
      
-5. **Install frontend dependencies & Run **
+5. Install frontend dependencies & Run 
     ```bash
     cd ../frontend
     npm install
-    npm run dev
-  ```
+    npm run dev  ```
 
