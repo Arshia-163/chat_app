@@ -4,8 +4,7 @@
 - [Overview](##-overview-)
 - [Technologies Used](##-technologies-used-)
 - [Key Features](##-key-features-)
-- [How to Contribute](#-getting-started-)
-
+- [Getting Started](#-getting-started-)
 
 ---
 ## 🌟 Overview 🌟
@@ -30,10 +29,10 @@ Talkie is a real-time chat application designed for instant messaging and group 
 ##### Socket.IO – Real-time messaging
 
 ## ✨ Key Features ✨
-### 📱 User Authentication – Encrypted passwords & JWT-based login.
-### 💬 Direct Messaging – Real-time 1:1 chats with media sharing.
-### 👥 Group Channels – Create and manage group conversations easily.
-### 🔒 Secure – Protected APIs and safe data handling.
+#### 📱 User Authentication – Encrypted passwords & JWT-based login.
+#### 💬 Direct Messaging – Real-time 1:1 chats with media sharing.
+#### 👥 Group Channels – Create and manage group conversations easily.
+#### 🔒 Secure – Protected APIs and safe data handling.
 
 ## 📸 Screenshots
 ### Signin/SignUp Page
