@@ -30,11 +30,10 @@ Talkie is a real-time chat application designed for instant messaging and group 
 ##### Socket.IO – Real-time messaging
 
 ## ✨ Key Features ✨
-### 📱 User Authentication
-### 💬 Direct Messaging
-### 👥 Channels
-### 🖥 Responsive Design
-### 🔒 Secure
+### 📱 User Authentication – Encrypted passwords & JWT-based login.
+### 💬 Direct Messaging – Real-time 1:1 chats with media sharing.
+### 👥 Group Channels – Create and manage group conversations easily.
+### 🔒 Secure – Protected APIs and safe data handling.
 
 ## 📸 Screenshots
 ### Signin/SignUp Page
@@ -53,3 +52,29 @@ Talkie is a real-time chat application designed for instant messaging and group 
        alt="Main Page" width="60%" 
        style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);" />
 </div>
+
+## 🛠 𝐆𝐞𝐭𝐭𝐢𝐧𝐠 𝐒𝐭𝐚𝐫𝐭𝐞𝐝
+=
+1. **🍴 Fork the repository **
+2. **💻 Clone your fork **
+    - Clone the repository to your local machine by running the following command in your terminal:
+     ```bash
+     git clone https://github.com/your-username/CHAT_APP.git
+          ```
+   - Replace `your-username` with your GitHub username.
+3. **🌿 Install backend dependencies**
+     ```bash
+     cd backend
+     npm install
+     ```
+4. **🛠️ Set environment variables **
+       
+     PORT=5000
+     MONGO_URI=<Your MongoDB URI>
+     JWT_SECRET=<Your JWT Secret>
+5. ** Install frontend dependencies & Run **
+    ```bash
+    cd ../frontend
+    npm install
+    npm run dev
+     ```
