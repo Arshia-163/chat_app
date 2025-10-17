@@ -51,11 +51,11 @@ Authorization ensures only members can access messages
 📸 Screenshots
 ##### Signin/SignUp Page
 <div style="text-align: center;">
-  <img src="https://github.com/Arshia-163/chat-app/blob/main/images/signin.png" alt="Login Page" width="50%" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);" />
-  <img src="https://github.com/Arshia-163/chat-app/blob/main/images/signup.png" alt="Main Page" width="50%" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);" />
+  <img src="https://github.com/Arshia-163/chat-app/blob/Images/signin.png" alt="Login Page" width="50%" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);" />
+  <img src="https://github.com/Arshia-163/chat-app/blob/Images/signup.png" alt="SignUp Page" width="50%" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);" />
 </div>
 
 ##### Main Page with Direct Messages & Channels
 <div style="text-align: center;">
-<img src="https://github.com/Arshia-163/chat-app/blob/main/images/main.png" alt="Main Page" width="50%" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);" />
+<img src="https://github.com/Arshia-163/chat-app/blob/Images/main.png" alt="Main Page" width="50%" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);" />
 
