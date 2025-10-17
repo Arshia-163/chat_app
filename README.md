@@ -1,11 +1,11 @@
 # Talkie – Real-Time Chat App
 
 ## Table of Contents
-- [Overview](#-overview-)
-- [Technologies Used](#-technologies-used-)
-- [Key Features](#-key-features-)
-- [How to Contribute](#-how-to-contribute-to-this-project-)
-- [Contribution Points](#contribution-points)
+- [Overview](##-overview-)
+- [Technologies Used](##-technologies-used-)
+- [Key Features](##-key-features-)
+- [How to Contribute](#-getting-started-)
+
 
 ---
 ## 🌟 Overview 🌟
@@ -30,40 +30,32 @@ Talkie is a real-time chat application designed for instant messaging and group 
 ##### Socket.IO – Real-time messaging
 
 ## ✨ Key Features ✨
-
-📱 User Authentication
-
-Secure login and signup using JWT tokens
-
+#### 📱 User Authentication
+##### Secure login and signup using JWT tokens
 Passwords hashed with bcrypt
 
-💬 Direct Messaging
-
-Send and receive messages instantly
-
+#### 💬 Direct Messaging
+##### Send and receive messages instantly
 Supports text, emojis, and file attachments
 
-👥 Channels
-
-Create channels for group chats
-
-Add multiple users to a channel
-
-Admins manage channel members
-
-🖥 Responsive Design
-
-Works seamlessly on desktop, tablet, and mobile
-
-🔒 Secure
-
-Data securely stored in MongoDB
-
+#### 👥 Channels
+##### Create channels for group chats
+ Add multiple users to a channel
+ 
+#### 🖥 Responsive Design
+##### Works seamlessly on desktop, tablet, and mobile
+#### 🔒 Secure
+##### Data securely stored in MongoDB
 Authorization ensures only members can access messages
 
 📸 Screenshots
+##### Signin/SignUp Page
+<div style="text-align: center;">
+  <img src="https://github.com/Arshia-163/chat-app/blob/main/images/signin.png" alt="Login Page" width="50%" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);" />
+  <img src="https://github.com/Arshia-163/chat-app/blob/main/images/signup.png" alt="Main Page" width="50%" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);" />
+</div>
 
-Signin/SignUp Page
+##### Main Page with Direct Messages & Channels
+<div style="text-align: center;">
+<img src="https://github.com/Arshia-163/chat-app/blob/main/images/main.png" alt="Main Page" width="50%" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);" />
 
-
-Main Page with Direct Messages & Channels
