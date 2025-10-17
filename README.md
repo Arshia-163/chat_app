@@ -32,30 +32,22 @@ Talkie is a real-time chat application designed for instant messaging and group 
 ## ✨ Key Features ✨
 #### 📱 User Authentication
 ##### Secure login and signup using JWT tokens
-Passwords hashed with bcrypt
-
 #### 💬 Direct Messaging
 ##### Send and receive messages instantly
-Supports text, emojis, and file attachments
-
-#### 👥 Channels
+### 👥 Channels
 ##### Create channels for group chats
- Add multiple users to a channel
- 
 #### 🖥 Responsive Design
 ##### Works seamlessly on desktop, tablet, and mobile
 #### 🔒 Secure
 ##### Data securely stored in MongoDB
-Authorization ensures only members can access messages
-
 📸 Screenshots
-##### Signin/SignUp Page
+### Signin/SignUp Page
 <div style="text-align: center;">
-  <img src="https://github.com/Arshia-163/chat-app/blob/Images/signin.png" alt="Login Page" width="50%" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);" />
-  <img src="https://github.com/Arshia-163/chat-app/blob/Images/signup.png" alt="SignUp Page" width="50%" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);" />
+  <img src="https://raw.githubusercontent.com/Arshia-163/chat-app/main/images/signin.png" alt="Login Page" width="50%" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);" />
+  <img src="https://raw.githubusercontent.com/Arshia-163/chat-app/main/images/signup.png" alt="SignUp Page" width="50%" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);" />
 </div>
 
-##### Main Page with Direct Messages & Channels
+### Main Page with Direct Messages & Channels
 <div style="text-align: center;">
-<img src="https://github.com/Arshia-163/chat-app/blob/Images/main.png" alt="Main Page" width="50%" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);" />
-
+  <img src="https://raw.githubusercontent.com/Arshia-163/chat-app/main/images/main.png" alt="Main Page" width="50%" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);" />
+</div>
